@@ -25,6 +25,16 @@ This project demonstrates the use of **machine learning models** to predict the 
 
 ---
 
+## Dataset
+
+The dataset used in this project is publicly available on Kaggle:
+
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
+It contains patient demographic and health attributes used to predict the likelihood of stroke.
+
+---
+
 ## Getting Started
 
 1. **Clone or download the repository**.  
